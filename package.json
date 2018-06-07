@@ -1,0 +1,20 @@
+{
+  "name": "tfl-signalr-hub",
+  "author": "TFL",
+  "version": "1.0.0",
+  "description": "TFL signalR hub",
+  "main": "dist/tfl-signalr-hub.js",
+  "dependencies": {
+    "tfl-signalr-hub": "^1.0.0"
+  },
+  "keywords": [
+    "signalr-hub",
+    "tfl"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milad-alizadeh/concertina.js"
+  },
+  "homepage": "https://push-api.tfl.gov.uk/signalr/hubs",
+  "license": "MIT"
+}
